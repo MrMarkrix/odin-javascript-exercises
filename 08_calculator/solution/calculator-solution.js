@@ -48,3 +48,8 @@ module.exports = {
   power,
   factorial,
 };
+
+
+console.log(5*(4));
+
+console.log(factorial(5))
